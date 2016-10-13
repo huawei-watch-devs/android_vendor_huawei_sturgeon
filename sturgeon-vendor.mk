@@ -35,6 +35,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/sturgeon/proprietary/bin/bt_addr_format.sh:system/bin/bt_addr_format.sh \
     vendor/huawei/sturgeon/proprietary/bin/ClockworkProxy:system/bin/ClockworkProxy \
     vendor/huawei/sturgeon/proprietary/bin/delta_panel.sh:system/bin/delta_panel.sh \
+    vendor/huawei/sturgeon/proprietary/bin/shd:system/bin/shd \
     vendor/huawei/sturgeon/proprietary/etc/regulatory_info.png:system/etc/regulatory_info.png \
     vendor/huawei/sturgeon/proprietary/etc/Tfa98xx.cnt:system/etc/Tfa98xx.cnt \
     vendor/huawei/sturgeon/proprietary/framework/clockwork-system.jar:system/framework/clockwork-system.jar \
